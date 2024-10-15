@@ -5,8 +5,6 @@ This project involves analyzing data from an online music store to derive busine
 
 # Key Tasks and SQL Queries
 
-#Identify Senior Most Employee Based on Job Title
-
 Retrieves all employees ordered by job title in descending order to determine the senior-most employee.
 Purpose: Understand organizational hierarchy and employee structure.
 
